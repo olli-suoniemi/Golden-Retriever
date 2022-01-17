@@ -4,7 +4,7 @@
 2d-tasohyppeli peli Pythonin ja PyQt5:n avulla toteutetteuna
 
 ## Rakenne
-src-kansiosta löytyy ohjelmankoodi, ja äänitiedostot, fontit ja kuvat omista kansioistaan
+src-kansiosta löytyy ohjelman koodi, ja äänitiedostot, fontit ja kuvat omista kansioistaan
 
 ## Asennusohje
 Tarvitset jonkin pythonia ajavan ohjelmointiympäristön. Lisäksi sinun tulee asentaa Pythonista vähintään 3.5 versio. Pythonin asentaessa asenna samalla pip. Aja komentorivillä komento:
@@ -12,7 +12,7 @@ Tarvitset jonkin pythonia ajavan ohjelmointiympäristön. Lisäksi sinun tulee a
 pip install pyqt5
 
 kopioi lähdekoodi ohjelmointiympäristöösi painamalla clone.
-aja ohjelma
+käynnistä ohjelma ajamalla main.py.
 
 ## Käyttöohje
 Ohjelma toimii näppäimistön nuolinäppäimillä.
